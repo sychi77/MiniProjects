@@ -1,2 +1,4 @@
 # MiniProjects
-Springboard Projects
+Springboard Mini-Projects
+* Data Wrangling Projects
+  * JSON - World Bank Data Set 
