@@ -8,3 +8,5 @@ Springboard Mini-Projects
   * Human Body Temperature Measurements 
   * Racial Discrimination for Job Callbacks
   * Hospital Readmission Policy on Small vs Large Hospitals
+* Machine Learning
+  * Linear Regression - Boston Housing Data
