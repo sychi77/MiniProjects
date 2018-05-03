@@ -10,3 +10,4 @@ Springboard Mini-Projects
   * Hospital Readmission Policy on Small vs Large Hospitals
 * Machine Learning
   * Linear Regression - Boston Housing Data
+  * Logistic Regression
