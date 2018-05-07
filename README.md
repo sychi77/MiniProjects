@@ -11,3 +11,4 @@ Springboard Mini-Projects
 * Machine Learning
   * Linear Regression - Boston Housing Data
   * Logistic Regression
+  * Naive Bayes - Rotten Tomatoes
