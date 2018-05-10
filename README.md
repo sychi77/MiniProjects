@@ -12,3 +12,4 @@ Springboard Mini-Projects
   * Linear Regression - Boston Housing Data
   * Logistic Regression
   * Naive Bayes - Rotten Tomatoes
+  * Clustering - Wine Data
