@@ -13,6 +13,8 @@ Springboard Mini-Projects
   * Logistic Regression
   * Naive Bayes - Rotten Tomatoes
   * Clustering - Wine Data
+* Spark
+  * Map Reduce with Spark
 * Take Home Challenges
   * Ultimate - Ride Sharing App Driver Retention
   * Relax - Product Adoption Rate
